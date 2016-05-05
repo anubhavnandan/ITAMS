@@ -1,0 +1,29 @@
+Finger_Scanner
+Asset_ID		 Asst_Type				Product_ID				Model				Brand				Type				Color				Warranty				Price
+
+					Finger_Scanner	 w		w	w	w	2		 2			2.0
+
+					Finger_Scanner	 q		q	q	q	q		 2			2.0
+
+					Finger_Scanner	 q		q	q	q	q		 2			2.0					Finger_Scanner	 2		2	2	2	2		 2			2.0
+					Finger_Scanner	 	1		1		1		1		1		 1		1.0
+					Finger_Scanner	 	1			1			1			1			1		 	1			1.0
+					Finger_Scanner	 	FCDe				WER				dk				dsdf				werw		 		0				12.0
+					Finger_Scanner	 	q					q					q					q					q		 			1					1000.0
+					Finger_Scanner	 	                    					abc                 					fjd                 					d                   					e                   		 			3					3.0
+					Finger_Scanner	 	                    					djd dd              					ffs sf sfd          					ff fs sf wsf wf     					 ff  sf             		 			2					45.0
+					Finger_Scanner	 		                    			q                   			q                   			q                   			q                   			1			12.0
+					Finger_Scanner	 		                    			q                   			q                   			q                   			q                   			1			1.0
+					Finger_Scanner	 		                    		q                   		q                   		q                   		q                   		0		0.0
+					Finger_Scanner	 		                    		11                  		1                   		1                   		1                   		1		1.0
+					Finger_Scanner	 		                    		yy                  		tt t t t            		tt                  		t                   		0			0.0
+					Finger_Scanner	 		                    		 44 4 4 4           		44 4 4 4 4  4       		4 4 4 4             		4 4                 		0			0.0
+					Finger_Scanner	 		                    		w                   		w                   		w                   		w                   		0			0.0
+					Finger_Scanner	 		                    			q q                 			q                   			q                   			q                   			1			0.0
+					Finger_Scanner	 		                    		null		null		null		null		0			0.0
+					Finger_Scanner	 		null		2                   		3                   		3                   		3                   		3			3.0
+					null	 		null		                    		null		null		null		0			0.0
+					null	 		null		                    		null		null		null		0			0.0
+					null	 		null		                    		null		null		null		0			0.0
+					Finger_Scanner	 		qwe                 		                    		q                   		q                   		q                   		1			123.0
+					null	 		null		null		null		null		null		0			0.0
